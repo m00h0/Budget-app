@@ -1,6 +1,6 @@
 databases:
   - name: budget_app
-    databaseName: mysite
+    databaseName: budget_app
     user: mic
     plan: free
 
