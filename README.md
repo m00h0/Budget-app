@@ -102,8 +102,8 @@ bundle exec rspec
 
 ## 👥 Author <a name="author"></a>
 
-👤 **Mozamel Jawad**
-- GitHub: [@newtonah0](https://github.com/newtonah0)
+👤 **Ahmed**
+- GitHub: [@newtonah0](https://github.com/m00h0)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
