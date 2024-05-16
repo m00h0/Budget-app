@@ -63,7 +63,7 @@ Ruby, Ruby on Rails, Postgresql, Visual Studio Code.
 
 To use this project. Clone this repository to your desired folder by:
 
-- https://github.com/newtonah0/Budget-app.git
+- https://github.com/m00h0/Budget-app.git
 
 ### Prerequisites <a name="prerequisites"></a>
 
