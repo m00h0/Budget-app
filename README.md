@@ -116,7 +116,7 @@ bundle exec rspec
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/newtonah0/Budget-app/issues).
+Feel free to check the [issues page](https://github.com/m00h0/Budget-app/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
