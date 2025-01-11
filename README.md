@@ -42,7 +42,6 @@ Ruby, Ruby on Rails, Postgresql, Visual Studio Code.
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - ✅ Click [Live Demo Link](https://mic-0dbi.onrender.com)
-- ✅ Click [here](https://www.loom.com/share/987bc5bf7709406091ec15b37a2deaa8?sid=12b24b8a-a8ae-434d-9ae7-caf95836a3bc) to see the video presentation.
 
 ### Key Features <a name="key-features"></a>
 
