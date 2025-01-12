@@ -89,7 +89,7 @@ or
 rails s
 ```
 
-### Run tests <a name="run tests"></a>
+### Run tests <a name="run-tests"></a>
 
 To test, run:
 
