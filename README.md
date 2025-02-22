@@ -27,7 +27,10 @@ The **Budget App** is a Ruby on Rails mobile web application where you can manag
 
 ## 🛠 Built With <a name="built-with"></a>
 
-Ruby, Ruby on Rails, Postgresql, Visual Studio Code.
+- **Ruby**: A dynamic, open source programming language with a focus on simplicity and productivity.
+- **Ruby on Rails**: A server-side web application framework written in Ruby under the MIT License.
+- **PostgreSQL**: A powerful, open source object-relational database system.
+- **Visual Studio Code**: A free source-code editor made by Microsoft for Windows, Linux, and macOS.
 
 ### Tech Stack <a name="tech-stack"></a>
 
