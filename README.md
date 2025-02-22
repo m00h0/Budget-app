@@ -109,8 +109,8 @@ bundle exec rspec
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Mobile App]**
-- [ ] **[User Profiles]**
+- **Mobile App**: Develop a native mobile application to provide a seamless budgeting experience on both iOS and Android devices.
+- **User Profiles**: Introduce user profiles to personalize the app experience, allowing users to save their preferences and transaction history securely.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
